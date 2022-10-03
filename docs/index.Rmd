@@ -1,0 +1,37 @@
+---
+title: "Biostatistics Literacy: Project Page"
+output: rmdformats::readthedown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmdformats)
+```
+
+# Project Contributors
+
+In alphabetical order: 
+
+- Laura Le
+- Mike Jiroutek
+- Steven Foti
+- [V.N. Vimal Rao](https://raovnv.github.io/research.html)
+
+# Introduction to the Project
+
+Being able to critically evaluate quantitative methods used by studies in the medical sciences is an important skill for students in the medical and public health field. These skills are distinct from some of the content traditionally emphasized in introductory statistics and biostatistics classes, such as learning how to run statistical analysis in R or SAS. 
+
+Instead, we teach a course specifically focused on developing students' biostatistical literacy, with a focus on reading methods and results sections and critically evaluating their application. The course was originally developed at the University of Minnesota, by Dr. Laura Le, but we have each adapted it at our own universities, and adapted it for different course formats and instructional level. 
+
+The goal of this project is to share our resources with other biostatistics instructors, describe why and how we implemented these courses and evaluate their efficacy in achieving program-level student learning objectives, and provide a roadmap for other biostatistics instructors interested in implementing a similar course at their institution. 
+
+# Upcoming Work
+
+We are currently working on a poster to be presented at the 2023 US Conference on Teaching Statistics.
+
+Stay tuned!
+
+# Citations
+
+
+
