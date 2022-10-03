@@ -1,3 +1,3 @@
-# Data-to-Graphs and Back
+# Biostatistics Literacy Project
 
-This GitHub repository is the home for the Data-to-Graphs and Back project being conducted by V.N. Vimal Rao, Chelsey Legacy, Jonathan M. Brown, Andrew Zieffler, and Robert delMas. You can access the project website at: https://RaoVNV.github.io/Data-to-Graphs. 
+This GitHub repository is the home for the Biostatistics Literacy project being conducted by Laura Le, Mike Jiroutek, Steven Foti, and V.N. Vimal Rao. You can access the project website at: https://RaoVNV.github.io/BiostatLiteracyProject. 
