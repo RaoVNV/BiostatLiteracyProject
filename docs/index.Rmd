@@ -21,7 +21,7 @@ In alphabetical order:
 
 Being able to critically evaluate quantitative methods used by studies in the medical sciences is an important skill for students in the medical and public health field. These skills are distinct from some of the content traditionally emphasized in introductory statistics and biostatistics classes, such as learning how to run statistical analysis in R or SAS. 
 
-Instead, we teach a course specifically focused on developing students' biostatistical literacy, with a focus on reading methods and results sections and critically evaluating their application. The course was originally developed at the University of Minnesota, by Dr. Laura Le, but we have each adapted it at our own universities, and adapted it for different course formats and instructional level. 
+Instead, we teach a course specifically focused on developing students' biostatistical literacy, with a focus on reading methods and results sections and critically evaluating their application. The course was originally developed at the University of Minnesota, by Dr. Ann Brearly, but we have each adapted it at our own universities, and adapted it for different course formats and instructional level. 
 
 The goal of this project is to share our resources with other biostatistics instructors, describe why and how we implemented these courses and evaluate their efficacy in achieving program-level student learning objectives, and provide a roadmap for other biostatistics instructors interested in implementing a similar course at their institution. 
 
