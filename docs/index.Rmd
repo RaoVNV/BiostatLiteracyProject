@@ -25,13 +25,24 @@ Instead, we teach a course specifically focused on developing students' biostati
 
 The goal of this project is to share our resources with other biostatistics instructors, describe why and how we implemented these courses and evaluate their efficacy in achieving program-level student learning objectives, and provide a roadmap for other biostatistics instructors interested in implementing a similar course at their institution. 
 
-# Upcoming Work
+# USCOTS 2023
 
-We are currently working on a poster to be presented at the 2023 US Conference on Teaching Statistics.
+At the 2023 US Conference on Teaching Statistics, we are presenting two sessions:
 
-Stay tuned!
+- A breakout session, [Biostatistical Literacy: What it is, and how can we teach it?](https://causeweb.org/cause/uscots/uscots23/3a-biostatistical-literacy-what-it-and-how-can-we-teach-it-room-107)
+- A beyond posters session, [Using collaborative keys to promote active learning and student engagement for in-person or online courses](https://causeweb.org/cause/uscots/uscots23/f26-using-collaborative-keys-promote-active-learning-and-student-engagement-person)
+
+Materials: 
+
+- [Slides]() from the breakout session
+- [Concept Activity]() from the breakout session
+- [Literature Review Activity]() from the breakout session
+- [Poster]() from the beyond posters session
+- [Collaborative Key Timelapse]() from the beyond posters session
+
 
 # Citations
 
+Foti, S., Jiroutek, M.R., Le, L., & Rao, V.N.V. (2023, June). *Biostatistical Literacy: What is it, and how can we teach it?* [Breakout Session]. United States Conference on Teaching Statistics (USCOTS), State College, Pennsylvania. 
 
-
+Jiroutek, M.R., Le, L., Foti, S., & Rao, V.N.V. (2023, June). *Using Collaborative Keys to promote active learning and student engagement for in-person or online courses* [Posters and Beyond Presentation]. United States Conference on Teaching Statistics (USCOTS), State College, Pennsylvania.
