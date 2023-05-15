@@ -1,5 +1,5 @@
 ---
-title: "Biostatistics Literacy: Project Page"
+title: "Biostatistical Literacy: Project Page"
 output: rmdformats::readthedown
 ---
 
@@ -12,18 +12,18 @@ library(rmdformats)
 
 In alphabetical order: 
 
-- Laura Le
-- Mike Jiroutek
-- Steven Foti
+- [Laura Le](https://directory.sph.umn.edu/bio/sph-a-z/laura-le)
+- [Michael R. Jiroutek](https://directory.campbell.edu/people/michael-jiroutek/)
+- [Steven J. Foti](https://biostat.ufl.edu/profile/foti-steven/)
 - [V.N. Vimal Rao](https://raovnv.github.io/research.html)
 
 # Introduction to the Project
 
-Being able to critically evaluate quantitative methods used by studies in the medical sciences is an important skill for students in the medical and public health field. These skills are distinct from some of the content traditionally emphasized in introductory statistics and biostatistics classes, such as learning how to run statistical analysis in R or SAS. 
+Being able to critically evaluate quantitative methods used by studies in the medical sciences is an important skill for students in the public health field. These skills are distinct from some of the content traditionally emphasized in introductory statistics and biostatistics classes, such as learning how to run statistical analysis in R or SAS. 
 
-Instead, we teach a course specifically focused on developing students' biostatistical literacy, with a focus on reading methods and results sections and critically evaluating their application. The course was originally developed at the University of Minnesota, by Dr. Ann Brearly, but we have each adapted it at our own universities, and adapted it for different course formats and instructional level. 
+Instead, we teach a course specifically focused on developing students' biostatistical literacy, with a focus on reading methods and results sections and critically evaluating them. The course was originally developed at the University of Minnesota, by Dr. Ann Brearly, but we have each adapted it at our own universities, and adapted it for different course formats and instructional levels. 
 
-The goal of this project is to share our resources with other biostatistics instructors, describe why and how we implemented these courses and evaluate their efficacy in achieving program-level student learning objectives, and provide a roadmap for other biostatistics instructors interested in implementing a similar course at their institution. 
+The goal of this project is to share our resources with other statistics and biostatistics instructors, describe why and how we implemented these courses and evaluate their efficacy in achieving program-level student learning objectives, and provide a roadmap for other instructors interested in implementing a similar course at their institution. 
 
 # USCOTS 2023
 
@@ -43,6 +43,6 @@ Materials:
 
 # Citations
 
-Foti, S., Jiroutek, M.R., Le, L., & Rao, V.N.V. (2023, June). *Biostatistical Literacy: What is it, and how can we teach it?* [Breakout Session]. United States Conference on Teaching Statistics (USCOTS), State College, Pennsylvania. 
+Foti, S.J., Jiroutek, M.R., Le, L., & Rao, V.N.V. (2023, June). *Biostatistical Literacy: What is it, and how can we teach it?* [Breakout Session]. United States Conference on Teaching Statistics (USCOTS), State College, Pennsylvania. 
 
-Jiroutek, M.R., Le, L., Foti, S., & Rao, V.N.V. (2023, June). *Using Collaborative Keys to promote active learning and student engagement for in-person or online courses* [Posters and Beyond Presentation]. United States Conference on Teaching Statistics (USCOTS), State College, Pennsylvania.
+Jiroutek, M.R., Le, L., Foti, S.J., & Rao, V.N.V. (2023, June). *Using Collaborative Keys to promote active learning and student engagement for in-person or online courses* [Posters and Beyond Presentation]. United States Conference on Teaching Statistics (USCOTS), State College, Pennsylvania.
