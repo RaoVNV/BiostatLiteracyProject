@@ -31,7 +31,7 @@ With the Royal Statistical Society's Teaching Statistics section, we are present
 
 Materials: 
 
-- [Slides]()
+- [Slides](https://docs.google.com/presentation/d/1RI_G28FadS3oR8q_wVIX7Uo-L8ZJsz66/edit?usp=sharing&ouid=103368445301151303004&rtpof=true&sd=true)
 
 # USCOTS 2023
 
@@ -58,7 +58,7 @@ We encourage you to consider using some in your own course! For questions, pleas
 
 # Citations
 
-Le, L., Jiroutek, M.R., & Rao, V.N.V. (2024, January). *Biostatistical Literacy: What is it, and how can we teach it?* [Invited Talk]. 
+Le, L., Jiroutek, M.R., & Rao, V.N.V. (2024, January). *Biostatistical Literacy: What is it, and how can we teach it?* [Invited Seminar]. 
 Royal Statistical Society (RSS) Teaching Statistics Section, online. Sponsored by Dr. Elinor Jones and Dr. Jamie Sergeant.  
 
 Foti, S.J., Jiroutek, M.R., Le, L., & Rao, V.N.V. (2023, June). *Biostatistical Literacy: What is it, and how can we teach it?* [Breakout Session]. United States Conference on Teaching Statistics (USCOTS), State College, Pennsylvania. 
