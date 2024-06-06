@@ -25,12 +25,23 @@ Instead, we teach a course specifically focused on developing students' biostati
 
 The goal of this project is to share our resources with other statistics and biostatistics instructors, describe why and how we implemented these courses and evaluate their efficacy in achieving program-level student learning objectives, and provide a roadmap for other instructors interested in implementing a similar course at their institution. 
 
+# UKCOTS 2024
+
+At the 2024 UK Conference on Teaching Statistics, we are presenting a talk on [Unlocking student engagement using collaborative keys](https://www.ukcots.org/). 
+
+Materials: 
+
+- [Abstract](https://docs.google.com/document/d/1zNR4O7Xly_v4n7PgUytNER3FltCA9IZg6QTWGQKHCvg/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1SxjQmqj2aLK56-vIry1zhUTHcPLpS_Ho/edit?usp=sharing&ouid=103368445301151303004&rtpof=true&sd=true)
+- [Example of Collaborative Key Instructions](https://drive.google.com/drive/u/3/folders/1JGg4Zlo-h1_V2YdQuddOxUqut-JpA8_q)
+
 # RSS TSS 2024
 
 With the Royal Statistical Society's Teaching Statistics section, we are presenting an online seminar, [Biostatistical Literacy: What is it, and how can we teach it?](https://rss.org.uk/training-events/events/events-2024/sections/biostatistical-literacy-what-is-it,-and-how-can-we/).
 
 Materials: 
 
+- [Recording](https://youtu.be/c-WVVe5F4PI?si=KWhcWHry44pDbQIP)
 - [Slides](https://docs.google.com/presentation/d/1RI_G28FadS3oR8q_wVIX7Uo-L8ZJsz66/edit?usp=sharing&ouid=103368445301151303004&rtpof=true&sd=true)
 
 # USCOTS 2023
@@ -57,6 +68,8 @@ To see the variety of ways we have implemented this curriculum, use [this link](
 We encourage you to consider using some in your own course! For questions, please do not hesitate to contact us. 
 
 # Citations
+
+Foti, S.J., Jiroutek, M.R., & Le, L. (2024, June). *Unlocking student engagement using collaborative keys* [Presentation]. United Kingdom Conference on Teaching Statistics (UKCOTS), Manchester, England. 
 
 Le, L., Jiroutek, M.R., & Rao, V.N.V. (2024, January). *Biostatistical Literacy: What is it, and how can we teach it?* [Invited Seminar]. 
 Royal Statistical Society (RSS) Teaching Statistics Section, online. Sponsored by Dr. Elinor Jones and Dr. Jamie Sergeant.  
